@@ -1,0 +1,14 @@
+C:\Users\ibito\Documents\Code\player\bin\Debug\net8.0\player.exe
+C:\Users\ibito\Documents\Code\player\bin\Debug\net8.0\player.deps.json
+C:\Users\ibito\Documents\Code\player\bin\Debug\net8.0\player.runtimeconfig.json
+C:\Users\ibito\Documents\Code\player\bin\Debug\net8.0\player.dll
+C:\Users\ibito\Documents\Code\player\bin\Debug\net8.0\player.pdb
+C:\Users\ibito\Documents\Code\player\obj\Debug\net8.0\player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibito\Documents\Code\player\obj\Debug\net8.0\player.AssemblyInfoInputs.cache
+C:\Users\ibito\Documents\Code\player\obj\Debug\net8.0\player.AssemblyInfo.cs
+C:\Users\ibito\Documents\Code\player\obj\Debug\net8.0\player.csproj.CoreCompileInputs.cache
+C:\Users\ibito\Documents\Code\player\obj\Debug\net8.0\player.dll
+C:\Users\ibito\Documents\Code\player\obj\Debug\net8.0\refint\player.dll
+C:\Users\ibito\Documents\Code\player\obj\Debug\net8.0\player.pdb
+C:\Users\ibito\Documents\Code\player\obj\Debug\net8.0\player.genruntimeconfig.cache
+C:\Users\ibito\Documents\Code\player\obj\Debug\net8.0\ref\player.dll
